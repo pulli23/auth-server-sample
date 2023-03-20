@@ -100,3 +100,4 @@ ENV/
 
 # macOS filesystem cache
 .DS_store
+*.pem
